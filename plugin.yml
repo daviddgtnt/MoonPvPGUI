@@ -1,0 +1,10 @@
+name: MoonPvPGUI
+author: DavidDGTNT for MoonPvP
+api: [3.0.0]
+version: 1.0.0
+main: MoonPvPGUI\Main
+
+commands:
+ menu:
+  description: Shows you the menu.
+  usage: /menu
